@@ -61,7 +61,6 @@
 		"mincer": "~1.3",
 		"mkdirp": "~0.5",
 		"mocha-phantomjs-core": "~1.1",
-		"postcss": "~4.1",
 		"promised-io": "~0.3",
 		"qs": "~3.1",
 		"request": "~2.64",
